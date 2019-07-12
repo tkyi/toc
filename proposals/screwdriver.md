@@ -78,9 +78,9 @@ https://blog.screwdriver.cd; we Docker tag blog-published versions with “stabl
 https://screwdriver-cd.slack.com
 
 ## Names of initial committers, if different from those submitting proposal
-Original main contributors not on proposal: St. John Johnson, Jeremiah Wuenschel, Noah Katzman, Peter Peterson, and Darren Matsumoto
-Current team: Dao Lam, Dekus Lam, Jithin Emmanuel, Min Zhang, Tiffany Kyi, Lakshminarasimhan Parthasarathy, Alan Dong and Venu Narayanabhatla
-Also partners from Yahoo Japan: Ryosuke Nakayama, Keisuke Kumada, Yoshika Shota, Teppei Minegishi, Hiroki Takatsuka, Kenta Kawaharada, Yomei Komiya, Yuya Takahashi, Yuta Ohkawara, Yoshiyuki Watanabe, Yuichi Sawada, Kazuki
+Original main contributors not on proposal: [St. John Johnson](https://github.com/stjohnjohnson), [Jeremiah Wuenschel](https://github.com/jer), [Noah Katzman](https://github.com/nkatzman), [Peter Peterson](https://github.com/, and [Darren Matsumoto](https://github.com/
+Current team: [Dao Lam(https://github.com/, [Dekus Lam](https://github.com/, [Jithin Emmanuel](https://github.com/,[ Min Zhang](https://github.com/, [Tiffany Kyi](https://github.com/, [Lakshminarasimhan Parthasarathy](https://github.com/, [Alan Dong](https://github.com/ and [Venu Narayanabhatla](https://github.com/vnugopal)
+Also partners from Yahoo Japan: [Ryosuke Nakayama](https://github.com/catto), [Keisuke Kumada](https://github.com/kumada626), [Yoshika Shota](https://github.com/s-yoshika), [Teppei Minegishi](https://github.com/sakka2), [Hiroki Takatsuka](https://github.com/tk3fftk), [Kenta Kawaharada](https://github.com/wahapo),[ Yomei Komiya](https://github.com/wdstar), [Yuya Takahashi](https://github.com/y-takaha5hi), [Yuta Ohkawara](https://github.com/yokawara), [Yoshiyuki Watanabe](https://github.com/yoshwata), [Yuichi Sawada](https://github.com/yuichi10), [Kazuki](https://github.com/kkokufud)
 
 Briefly describe the project's leadership team and decision-making process
 Jithin Emmanuel is the Screwdriver product owner at Verizon Media and is responsible for leading the primary development effort. He has a team of six engineers that form the core contributor community for the project. 
