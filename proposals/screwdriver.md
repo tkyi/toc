@@ -26,9 +26,9 @@ Screwdriver supports the Kubernetes cloud, and it has built-in secret management
 
 Screwdriver also achieves scalability by supporting advanced build cache features, allowing the builds to run faster. Our build metrics user interface enables users to visualize the build performance trends over time. Screwdriver also supports advanced workflow features such as native support for mono-repos, feature branch builds, remote triggers, and easy rollback.
 
-![Screwdriver Architecture Diagram](./assets/SDarch.png)
+![Screwdriver Architecture Diagram](./SDarch.png)
 
-![Screwdriver Pipeline Example](./assets/SDpipeline.png)
+![Screwdriver Pipeline Example](./SDpipeline.png)
 
 
 
