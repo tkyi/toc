@@ -98,13 +98,13 @@ Incubation
 * Stack Overflow: https://stackoverflow.com/questions/tagged/screwdriver-cd
 
 ## Link to project's website 
-Homepage - https://screwdriver.cd
-Documentation - https://docs.screwdriver.cd
+* Homepage - https://screwdriver.cd
+* Documentation - https://docs.screwdriver.cd
 
 ## Links to social media accounts
-Tumblr: https://blog.screwdriver.cd
-Twitter: https://twitter.com/screwdrivercd
-Meetup: https://www.meetup.com/Bay-Area-CICD-and-DevOps-Meetup
+* Tumblr: https://blog.screwdriver.cd
+* Twitter: https://twitter.com/screwdrivercd
+* Meetup: https://www.meetup.com/Bay-Area-CICD-and-DevOps-Meetup
 
 ## Existing financial sponsorship
 Project infrastructure is sponsored by Verizon Media. The core committers are Verizon Media and Yahoo Japan employees.
