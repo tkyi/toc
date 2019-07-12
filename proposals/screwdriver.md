@@ -94,8 +94,8 @@ Contributing docs - https://docs.screwdriver.cd/about/contributing/index
 Incubation
 
 ## List of project's official communication channels (slack, irc, mailing lists)
-Slack: https://screwdriver-cd.slack.com
-Stack Overflow: https://stackoverflow.com/questions/tagged/screwdriver-cd
+* Slack: https://screwdriver-cd.slack.com
+* Stack Overflow: https://stackoverflow.com/questions/tagged/screwdriver-cd
 
 ## Link to project's website 
 Homepage - https://screwdriver.cd
