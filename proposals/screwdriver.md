@@ -8,9 +8,11 @@ Screwdriver
 ### Proposal : 
 We seek Screwdriver to be accepted as an incubation project with the Continuous Delivery Foundation. The CD Foundation is becoming the neutral home for open source CI/CD technology. Screwdriver is a mature CI/CD platform that is completely open source and seeks to develop our community and adoption under the guidance of our peers in the foundation.
 
-<B> Rationale</B>: Screwdriver operates at scale and in production at Verizon Media and Yahoo Japan.  We’d like to grow the community and incorporate more thought leadership from the CD Foundation to help guide the development of this platform so that it continues to track industry trends in the CI/CD space.
+### Rationale : 
+Screwdriver operates at scale and in production at Verizon Media and Yahoo Japan.  We’d like to grow the community and incorporate more thought leadership from the CD Foundation to help guide the development of this platform so that it continues to track industry trends in the CI/CD space.
 
-<B> Project description</B>: Screwdriver is an open source CI/CD platform that orchestrates and implements the build and release workflow for complex software projects. Our recent presentation to the CD Foundation highlights Screwdriver’s architecture, features, capabilities, and community. Users can implement our screwdriver-in-a-box solution using Docker Compose or a Kubernetes Helm chart for deploying the entire Screwdriver ecosystem into their environment. 
+### Project description : 
+Screwdriver is an open source CI/CD platform that orchestrates and implements the build and release workflow for complex software projects. Our recent presentation to the CD Foundation highlights Screwdriver’s architecture, features, capabilities, and community. Users can implement our screwdriver-in-a-box solution using Docker Compose or a Kubernetes Helm chart for deploying the entire Screwdriver ecosystem into their environment. 
 
 Screwdriver was built with extensibility in mind. It supports multiple plugins: 
 Source Code Management (GitHub, GitLab, Bitbucket)
