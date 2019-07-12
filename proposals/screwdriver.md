@@ -1,7 +1,10 @@
-Name of project
+# CD Foundation Proposal for Screwdriver
+
+
+## Name of project
 Screwdriver
 
-Summary
+## Summary
 Proposal: We seek Screwdriver to be accepted as an incubation project with the Continuous Delivery Foundation. The CD Foundation is becoming the neutral home for open source CI/CD technology. Screwdriver is a mature CI/CD platform that is completely open source and seeks to develop our community and adoption under the guidance of our peers in the foundation.
 
 Rationale: Screwdriver operates at scale and in production at Verizon Media and Yahoo Japan.  We’d like to grow the community and incorporate more thought leadership from the CD Foundation to help guide the development of this platform so that it continues to track industry trends in the CI/CD space.
@@ -26,12 +29,12 @@ Screwdriver Architecture Diagram
 
 Screwdriver Pipeline Example
 
-Origin and History:
+## Origin and History:
 Historically, development teams at Yahoo managed their own build, test, and release pipelines. Each team operated separately, working to find their own solutions to meet the demands of the company’s high standards and rapid pace. Most of the teams were relying on adhoc release processes. We needed a CI/CD solution that would scale to our volume.
 
 Screwdriver was designed and built ground up with the scale, security, and workflow needs of developers in mind. We open sourced Screwdriver in 2016 and continue to evolve the project using the greatest technologies and best CI/CD practices. 
 
-Statement on alignment with foundation charter's mission
+## Statement on alignment with foundation charter's mission
 
 The CD Foundation’s mission articulates four values: The value of continuous delivery to manage development operations; open source to encourage open development; fostering a vendor neutral ecosystem; and collaboration among practitioners. The Screwdriver team and community shares these values. 
 
@@ -40,28 +43,28 @@ We developed Screwdriver under the mantra “no humans involved.” We invested 
 Link to *current* Code of Conduct (if one is adopted already)
 https://github.com/screwdriver-cd/screwdriver/blob/master/code-of-conduct.md
 
-Sponsor from TOC, if identified (a sponsor helps mentor projects)
+## Sponsor from TOC, if identified (a sponsor helps mentor projects)
 N/A
 
-Project license 
+## Project license 
 BSD-3-Clause
 
-Source control (GitHub by default)
+## Source control (GitHub by default)
 https://github.com/screwdriver-cd
 
-Issue tracker (GitHub by default)
+## Issue tracker (GitHub by default)
 https://github.com/screwdriver-cd/screwdriver/issues
 
-External dependencies (including licenses)
+## External dependencies (including licenses)
 https://docs.screwdriver.cd/cluster-management/dependencies
 
-Release methodology and mechanics
+## Release methodology and mechanics
 Using semantic release package to handle versioning - https://github.com/semantic-release/semantic-release
 Publish Docker containers for UI, API, Store, etc - https://cloud.docker.com/u/screwdrivercd/repository/list
 Explanation of major features found in Docker image versions is explained in blog posts - https://blog.screwdriver.cd; we Docker tag blog-published versions with “stable” and the newest with “latest”
 Blog posts are announced on Slack (#general channel) - https://screwdriver-cd.slack.com
 
-Names of initial committers, if different from those submitting proposal
+## Names of initial committers, if different from those submitting proposal
 Original main contributors not on proposal: St. John Johnson, Jeremiah Wuenschel, Noah Katzman, Peter Peterson, and Darren Matsumoto
 Current team: Dao Lam, Dekus Lam, Jithin Emmanuel, Min Zhang, Tiffany Kyi, Lakshminarasimhan Parthasarathy, Alan Dong and Venu Narayanabhatla
 Also partners from Yahoo Japan: Ryosuke Nakayama, Keisuke Kumada, Yoshika Shota, Teppei Minegishi, Hiroki Takatsuka, Kenta Kawaharada, Yomei Komiya, Yuya Takahashi, Yuta Ohkawara, Yoshiyuki Watanabe, Yuichi Sawada, Kazuki
@@ -71,27 +74,27 @@ Jithin Emmanuel is the Screwdriver product owner at Verizon Media and is respons
 
 Major design decisions are discussed and documented in the primary repository’s design directory, and community priorities are established via the project’s GitHub Kanban board. Priorities are determined based on the requirements of the two primary companies that are involved in development work and we have biweekly meetings to sync priorities between community participants. These meetings can be opened up to the public for more transparency and collaboration.
 
-Link to any documented governance practices
+## Link to any documented governance practices
 Contributing docs - https://docs.screwdriver.cd/about/contributing/index
 
-Preferred maturity level (see stages below)
+## Preferred maturity level (see stages below)
 Incubation
 
-List of project's official communication channels (slack, irc, mailing lists)
+## List of project's official communication channels (slack, irc, mailing lists)
 Slack: https://screwdriver-cd.slack.com
 Stack Overflow: https://stackoverflow.com/questions/tagged/screwdriver-cd
 
-Link to project's website 
+## Link to project's website 
 Homepage - https://screwdriver.cd
 Documentation - https://docs.screwdriver.cd
 
-Links to social media accounts
+## Links to social media accounts
 Tumblr: https://blog.screwdriver.cd
 Twitter: https://twitter.com/screwdrivercd
 Meetup: https://www.meetup.com/Bay-Area-CICD-and-DevOps-Meetup
 
-Existing financial sponsorship
+## Existing financial sponsorship
 Project infrastructure is sponsored by Verizon Media. The core committers are Verizon Media and Yahoo Japan employees.
 
-Infrastructure needs or requests
+## Infrastructure needs or requests
 We want to be associated with and have a presence in CD foundation events that enable developers around the world to leverage, contribute, and take advantage of our open source offering. We would also like to have the foundation assist with setting up a truly open Screwdriver instance for everyone to experiment and contribute to it.
