@@ -5,20 +5,20 @@
 Screwdriver
 
 ## Summary
-### Proposal : 
+### Proposal
 We seek [Screwdriver](https://screwdriver.cd) to be accepted as an incubation project with the Continuous Delivery Foundation. The CD Foundation is becoming the neutral home for open source CI/CD technology. Screwdriver is a mature CI/CD platform that is completely open source and seeks to develop our community and adoption under the guidance of our peers in the foundation.
 
-### Rationale : 
+### Rationale
 Screwdriver operates at scale and in production at Verizon Media and Yahoo Japan.  We’d like to grow the community and incorporate more thought leadership from the CD Foundation to help guide the development of this platform so that it continues to track industry trends in the CI/CD space.
 
-### Project description : 
+### Project description
 Screwdriver is an open source CI/CD platform that orchestrates and implements the build and release workflow for complex software projects. [Our recent presentation to the CD Foundation](https://docs.google.com/presentation/d/1LNv-VlI0g9pcSra18sEmrLJ1lw-O2V5wpBfG9YV-Ink/edit#slide=id.g5ce0c2ee90_0_200) highlights Screwdriver’s architecture, features, capabilities, and community. Users can implement our screwdriver-in-a-box solution using Docker Compose or a Kubernetes Helm chart for deploying the entire Screwdriver ecosystem into their environment. 
 
 Screwdriver was built with extensibility in mind. It supports multiple plugins: 
-Source Code Management (GitHub, GitLab, Bitbucket)
-Executors (Kubernetes, Docker, Jenkins, AWS EC2)
-Databases (Postgres, MySQL, MariaDB, SQLite)
-Microservices/Bookends (artifact, build, cache, coverage)
+- Source Code Management (GitHub, GitLab, Bitbucket)
+- Executors (Kubernetes, Docker, Jenkins, AWS EC2)
+- Databases (Postgres, MySQL, MariaDB, SQLite)
+- Microservices/Bookends (artifact, build, cache, coverage)
 
 In cases where a desired plugin is not available, users can create their own and contribute back to the project. This flexibility makes Screwdriver suitable for many different types of applications, including web, mobile, services, and grid.
 
@@ -32,16 +32,16 @@ Screwdriver Architecture Diagram
 
 ![Screwdriver Pipeline Example](./SDpipeline.png)
 
-Screwdrivfer Pipeline Example
+Screwdriver Pipeline Example
 
 
 
 
 
-## Origin and History:
+## Origin and History
 Historically, development teams at Yahoo managed their own build, test, and release pipelines. Each team operated separately, working to find their own solutions to meet the demands of the company’s high standards and rapid pace. Most of the teams were relying on adhoc release processes. We needed a CI/CD solution that would scale to our volume.
 
-[Screwdriver](https://screwdriver.cd/) was designed and built ground up with the scale, security, and workflow needs of developers in mind. We open sourced Screwdriver in 2016 and continue to evolve the project using the greatest technologies and best CI/CD practices. 
+[Screwdriver](https://screwdriver.cd) was designed and built ground up with the scale, security, and workflow needs of developers in mind. We open sourced Screwdriver in 2016 and continue to evolve the project using the greatest technologies and best CI/CD practices. 
 
 ## Statement on alignment with foundation charter's mission
 
