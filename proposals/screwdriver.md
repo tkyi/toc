@@ -69,10 +69,13 @@ https://docs.screwdriver.cd/cluster-management/dependencies
 
 ## Release methodology and mechanics
 * Using semantic release package to handle versioning - 
-  https://github.com/semantic-release/semantic-release
-* Publish Docker containers for UI, API, Store, etc - https://cloud.docker.com/u/screwdrivercd/repository/list
-* Explanation of major features found in Docker image versions is explained in blog posts - https://blog.screwdriver.cd; we * Docker tag blog-published versions with “stable” and the newest with “latest”
-Blog posts are announced on Slack (#general channel) - https://screwdriver-cd.slack.com
+https://github.com/semantic-release/semantic-release
+* Publish Docker containers for UI, API, Store, etc - 
+https://cloud.docker.com/u/screwdrivercd/repository/list
+* Explanation of major features found in Docker image versions is explained in blog posts - 
+https://blog.screwdriver.cd; we * Docker tag blog-published versions with “stable” and the newest with “latest”
+Blog posts are announced on Slack (#general channel) - 
+https://screwdriver-cd.slack.com
 
 ## Names of initial committers, if different from those submitting proposal
 Original main contributors not on proposal: St. John Johnson, Jeremiah Wuenschel, Noah Katzman, Peter Peterson, and Darren Matsumoto
