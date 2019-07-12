@@ -26,11 +26,13 @@ Screwdriver supports the Kubernetes cloud, and it has built-in secret management
 
 Screwdriver also achieves scalability by supporting advanced build cache features, allowing the builds to run faster. Our build metrics user interface enables users to visualize the build performance trends over time. Screwdriver also supports advanced workflow features such as native support for mono-repos, feature branch builds, remote triggers, and easy rollback.
 
+![Screwdriver Architecture Diagram](./assets/SDarch.png)
 
-Screwdriver Architecture Diagram
+![Screwdriver Pipeline Example](./assets/SDpipeline.png)
 
 
-Screwdriver Pipeline Example
+
+
 
 ## Origin and History:
 Historically, development teams at Yahoo managed their own build, test, and release pipelines. Each team operated separately, working to find their own solutions to meet the demands of the company’s high standards and rapid pace. Most of the teams were relying on adhoc release processes. We needed a CI/CD solution that would scale to our volume.
